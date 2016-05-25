@@ -15,7 +15,6 @@ Running:
 on ``original.css``:
 
 .. code-block:: css
-   :caption: original.css
 
  @namespace "http://www.w3.org/1999/xhtml";
  
@@ -39,7 +38,6 @@ on ``original.css``:
 would give ``modified.css``:
 
 .. code-block:: css
-   :caption: modified.css
 
  @namespace "http://www.w3.org/1999/xhtml";
 
